@@ -1,25 +1,20 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Prática Flexbox
 
-## Exercícios de classe 🏫
-
 1. 3 Cards
-2. Feedback
-3. Lista de coleções
+![exercicio](https://i.imgur.com/2J0vNic.png)
 
-## Exercícios de casa 🏠
+2. Feedback
+![exercicio](https://i.imgur.com/IrIyZhg.png)
+
+3. Lista de coleções
+![exercicio](https://i.imgur.com/LscQlza.png)
+
 4. Lista de pessoas
+![exercicio](https://i.imgur.com/X20izOD.png)
+
 5. Card de usuário
+![exercicio](https://i.imgur.com/nS5xNNT.png)
 
 ---
 
-Preencha a checklist para fazer os exercícios:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
-
 ###### tags: `módulo 1` `front-end` `HTML` `CSS`
-
