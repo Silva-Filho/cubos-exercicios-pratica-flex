@@ -50,7 +50,6 @@ h2 {
 }
 
 .friend {
-    /* Buscar pseudo seletores. */
     margin-right: 10px;
     padding: 25px 0 5px;
     display: flex;
@@ -70,13 +69,14 @@ h2 {
     font-weight: 500;
     font-size: 18px;
     line-height: 21px;
-    color: #000000;
+    color: #000;
 }
 
 .add {
-    background: #000000;
-    border: 1px solid #000000;
+    background-color: #000;
+    border: 1px solid #000;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .contacts {
@@ -84,7 +84,7 @@ h2 {
     margin: 70px auto 0;
     margin-top: 70px;
     padding: 50px;
-    background: #FFFFFF;
+    background: #FFF;
     box-shadow: 0px 24px 74px -20px rgba(130, 148, 173, 0.44);
     border-radius: 15px;
 }
@@ -98,7 +98,7 @@ h2 {
 .cabecalho-contacts span {
     margin-left: 15px;
     padding: 6px 6px 7px;
-    border: 1px solid #000000;
+    border: 1px solid #000;
     border-radius: 25px;
     font-weight: bold;
     font-size: 22px;
@@ -130,14 +130,21 @@ h2 {
 
 .contact .message {
     margin-left: 125px;
+    cursor: pointer;
 }
 .contacts a {
-    margin-top: 70px;    
+    margin-top: 10px;
+    display: inline-block;
     padding: 15px 30px;
     font-weight: bold;
     font-size: 16px;
     line-height: 19px;
-    color: #FFFFFF;
-    background: #000000;
+    color: #FFF;
+    background-color: #000;
     border-radius: 60px;
+    transition: all 0.2s;
+}
+
+.contacts a:hover {
+    background-color: #333;
 }
